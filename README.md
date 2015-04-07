@@ -1,7 +1,8 @@
 # codeigniter-facebook-login-and-signup
 webisite facebook login and register user with facebook Oauth
 #facebook library version '3.2.3' include
-#databse MySql 
+#Databse MySql 
+
 <code>CREATE TABLE `users` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `oauth_provider` varchar(10) DEFAULT NULL,
@@ -13,7 +14,7 @@ webisite facebook login and register user with facebook Oauth
   `other_info` text,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1
-
+</code>
 <a href="http://www.vaimeo.com/demo/codeIgniter-facebook-login-and-register">Demo</a>
 
 
