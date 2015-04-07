@@ -15,6 +15,7 @@ webisite facebook login and register user with facebook Oauth
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1
 </code>
-<a href="http://www.vaimeo.com/demo/codeIgniter-facebook-login-and-register">Demo</a>
+
+#<a href="http://www.vaimeo.com/demo/codeIgniter-facebook-login-and-register">Demo</a>
 
 
